@@ -1,5 +1,4 @@
-﻿  BMW.cpp
-  main.cpp
-c:\users\пк\documents\github\kyrsach\kyrsovaya\kyrsovaya\main.cpp(12): warning C4101: a: неиспользованная локальная переменная
-  Создание кода...
+﻿  Buy and reservation.cpp
+c:\users\пк\documents\github\kyrsach\kyrsovaya\kyrsovaya\buy and reservation.cpp(19): warning C4129: B: неизвестная escape-последовательность
+c:\users\пк\documents\github\kyrsach\kyrsovaya\kyrsovaya\buy and reservation.cpp(34): warning C4129: B: неизвестная escape-последовательность
   Kyrsovaya.vcxproj -> C:\Users\пк\Documents\GitHub\Kyrsach\Kyrsovaya\Debug\Kyrsovaya.exe

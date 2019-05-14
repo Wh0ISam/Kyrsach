@@ -24,7 +24,7 @@
     <ClCompile Include="BMW.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Buy.cpp">
+    <ClCompile Include="Buy and reservation.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
@@ -35,7 +35,7 @@
     <ClInclude Include="BMW.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Buy.h">
+    <ClInclude Include="Buy and reservation.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

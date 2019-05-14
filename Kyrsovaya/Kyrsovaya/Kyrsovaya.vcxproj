@@ -116,13 +116,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BMW.cpp" />
-    <ClCompile Include="Buy.cpp" />
+    <ClCompile Include="Buy and reservation.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Login.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BMW.h" />
-    <ClInclude Include="Buy.h" />
+    <ClInclude Include="Buy and reservation.h" />
     <ClInclude Include="Login.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
