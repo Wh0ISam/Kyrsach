@@ -4,10 +4,12 @@
 #include <fstream>
 #include "Login.h"
 #include "Buy.h"
+#include "BMW.h"
 using namespace std;
 int main() {
 	bool check;
 	string user;
+	int a;
 	setlocale(LC_ALL, "rus");
 	cout << "Введите свою имя и фамилию транскриптом слитно. Пример: IvanIvanov" << endl;
 	cin >> user;
@@ -16,6 +18,7 @@ int main() {
 		cout << "Добро пожаловать постоянный покупатель: " << user << endl;
 	else
 		cout << "Добро пожаловать: " << user << endl;
-	buy();
+	
+	//buy();
 	system("pause");
 }
