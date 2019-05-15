@@ -40,6 +40,8 @@ public:
 	int getFuelconsumption();
 
 
+	void print();
+
 	~BMW();
 };
 

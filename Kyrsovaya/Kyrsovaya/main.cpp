@@ -28,26 +28,32 @@ int main() {
 	else
 		cout << "Добро пожаловать: " << user << endl;
 	BMW_X6.setPrice(200000);
+	BMW_X6.setAccelerator(2.5);
+	BMW_X6.setFuelconsumption(10);
+	BMW_X6.setModel("X6");
+	BMW_X6.setSeating(5);
+	BMW_X6.setSpeed(250);
+	BMW_X6.setVolume(10);
+	BMW_X6.setWeight(950);
 	while (a != 4) {
 		menu();
 		cin >> a;
 		switch (a)
 		{
 		case 1: {
-			cout << "Вы что-то купили" << endl;
-			buy(user,BMW_X6);
+			buy(user,BMW_X6);//покупка
 			break;
 		}
 		case 2: {
-			cout << "Вы что-то забронировали" << endl;
+			reservation(user, BMW_X6);//бронирование
 			break;
 		}
-		case 3: {
+		case 3: {// поиск
 			
 		}
 
 		}
 	}
-	//buy();
+	
 	system("pause");
 }

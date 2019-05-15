@@ -90,6 +90,11 @@ int BMW::getFuelconsumption()
 }
 
 
+void BMW::print()
+{
+	cout   << acceleration << " " << fuelconsumption << " " << model << " " << price << " " << seating << " " << speed << " " << volume << " " << weight;
+}
+
 BMW::~BMW()
 {
 }

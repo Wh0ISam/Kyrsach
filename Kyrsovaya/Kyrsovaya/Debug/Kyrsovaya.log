@@ -1,4 +1,7 @@
 ﻿  Buy and reservation.cpp
-c:\users\пк\documents\github\kyrsach\kyrsovaya\kyrsovaya\buy and reservation.cpp(19): warning C4129: B: неизвестная escape-последовательность
-c:\users\пк\documents\github\kyrsach\kyrsovaya\kyrsovaya\buy and reservation.cpp(34): warning C4129: B: неизвестная escape-последовательность
+c:\users\пк\documents\github\kyrsach\kyrsovaya\kyrsovaya\buy and reservation.cpp(20): warning C4129: B: неизвестная escape-последовательность
+c:\users\пк\documents\github\kyrsach\kyrsovaya\kyrsovaya\buy and reservation.cpp(35): warning C4129: B: неизвестная escape-последовательность
+c:\users\пк\documents\github\kyrsach\kyrsovaya\kyrsovaya\buy and reservation.cpp(53): warning C4129: R: неизвестная escape-последовательность
+c:\users\пк\documents\github\kyrsach\kyrsovaya\kyrsovaya\buy and reservation.cpp(57): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\пк\documents\github\kyrsach\kyrsovaya\kyrsovaya\buy and reservation.cpp(74): warning C4129: R: неизвестная escape-последовательность
   Kyrsovaya.vcxproj -> C:\Users\пк\Documents\GitHub\Kyrsach\Kyrsovaya\Debug\Kyrsovaya.exe
